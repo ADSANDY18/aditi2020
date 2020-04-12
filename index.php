@@ -7,7 +7,7 @@
     <head>
         <meta charset="utf-8">
         <title>
-            Imminent - The most spectacular coming soon template!
+            Aditi Bday
         </title><!-- Behavioral Meta Data -->
         <meta content="yes" name="apple-mobile-web-app-capable">
         <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport"><!-- Core Meta Data -->
@@ -48,7 +48,7 @@
         <div class="preloader">
             <div class="loading">
                 <h2>
-                    Loading...
+                    Aditi..
                 </h2>
                 <span class="progress"></span>
             </div>
@@ -69,8 +69,8 @@
 
                 <li class="layer" data-depth="0.20">
                     <div class="title">
-                        <h2>
-                            IMMINENT
+                        <h2 style="color: white">
+                            19th Bday CountDown!
                         </h2>
                         <span class="line"></span>
                     </div>
@@ -84,12 +84,15 @@
 
                 <li class="layer" data-depth="0.30">
                     <div class="hero">
-                        <h1 id="countdown">
-                            The most spectacular coming soon template!
+                        <h1 id="countdown" style="color: white">
+                            Wait till the Countdown Stops!!
                         </h1>
 
-                        <p class="sub-title">
-                            The most spectacular coming soon template!
+                        <p class="sub-title" style="color: white">
+                           Wait till the Countdown Stops!!
+                           <br>
+                           <br>
+                           <button style="background-color: black;color: white; width: 150px;border-radius: 10px">CLICK FOR GIFT</button>
                         </p>
                     </div>
                 </li>
@@ -158,23 +161,21 @@
                     <div class="contact">
                         <ul class="icons">
                             <li>
-                                <a class="behance" href="#"><i class="fa fa-behance"></i></a>
+                                <a class="behance" href="#"><i class="fa fa-facebook"></i></a>
                             </li>
 
                             <li>
-                                <a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
+                                <a class="twitter" href="#"><i class="fa fa-instagram"></i></a>
                             </li>
 
-                            <li>
-                                <a class="dribbble" href="#"><i class="fa fa-dribbble"></i></a>
-                            </li>
+                          
                         </ul>
-                        Theme by <a href="https://themewagon.com/" target="_blank">ThemeWagon</a>
-                        <a class="mail" href="mailto:info@example.com?subject=Hi%20ThemeWagon!">info@example.com</a>
+                        Theme by Sandip
                     </div>
                 </li>
             </ul>
         </div>
+        
 
         <!-- Javascript -->
         <script src="js/plugins.js"></script> 

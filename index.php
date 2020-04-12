@@ -94,14 +94,15 @@
                            <br>
                            <button style="background-color: black;color: white; width: 150px;border-radius: 10px">CLICK FOR GIFT</button>
                         </p>
-                          <h5 style="color white">BIRTHDAY RADIO</h5>
+                       
+                    </div>
+                </li>
+                   <h5 style="color white">BIRTHDAY RADIO</h5>
              <audio controls>
  
   <source src="music.mpeg" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
-                    </div>
-                </li>
                 <!-- Flakes -->
 
                 <li class="layer" data-depth="0.40">

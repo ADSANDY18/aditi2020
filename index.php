@@ -97,12 +97,7 @@
                        
                     </div>
                 </li>
-                   <h5 style="color white">BIRTHDAY RADIO</h5>
-             <audio controls>
- 
-  <source src="music.mpeg" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
+                 
                 <!-- Flakes -->
 
                 <li class="layer" data-depth="0.40">
@@ -166,6 +161,12 @@ Your browser does not support the audio element.
 
                 <li class="layer" data-depth="0.20">
                     <div class="contact">
+                         <h3 style="color white">BIRTHDAY RADIO</h3>
+             <audio controls autoplay>
+ 
+  <source src="music.mpeg" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
                         <ul class="icons">
                             <li>
                                 <a class="behance" href="#"><i class="fa fa-facebook"></i></a>

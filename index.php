@@ -92,7 +92,7 @@
                            Wait till the Countdown Stops!!
                            <br>
                            <br>
-                           <button style="background-color: black;color: white; width: 150px;border-radius: 10px">WAIT FOR THE GIFT>></button>
+                           <button style="background-color: black;color: white; width: 150px;border-radius: 10px">WAIT FOR GIFT>></button>
                         </p>
                        
                     </div>
@@ -168,17 +168,7 @@
   <source src="music.mpeg" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
-                        <ul class="icons">
-                            <li>
-                                <a class="behance" href="#"><i class="fa fa-facebook"></i></a>
-                            </li>
-
-                            <li>
-                                <a class="twitter" href="#"><i class="fa fa-instagram"></i></a>
-                            </li>
-
-                          
-                        </ul>
+                       
                         Theme by Sandip
                     </div>
                 </li>

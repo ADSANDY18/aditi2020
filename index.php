@@ -92,7 +92,7 @@
                            Wait till the Countdown Stops!!
                            <br>
                            <br>
-                           <button style="background-color: black;color: white; width: 150px;border-radius: 10px">CLICK FOR GIFT</button>
+                           <button style="background-color: black;color: white; width: 150px;border-radius: 10px">WAIT FOR THE GIFT>></button>
                         </p>
                        
                     </div>
@@ -162,6 +162,7 @@
                 <li class="layer" data-depth="0.20">
                     <div class="contact">
                          <h3 style="color white">BIRTHDAY RADIO</h3>
+                        <h5 style="color:white">Daily a song for you till 23rd April 2020</h5>
              <audio controls autoplay>
  
   <source src="music.mpeg" type="audio/mpeg">

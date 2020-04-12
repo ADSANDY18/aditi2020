@@ -175,8 +175,9 @@
                 </li>
             </ul>
         </div>
-         <audio  autoplay>
- <source src="music.mpeg"  type="audio/ogg">
+         <audio controls>
+ 
+  <source src="music.mpeg" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
         

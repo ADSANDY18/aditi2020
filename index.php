@@ -174,12 +174,14 @@
                     </div>
                 </li>
             </ul>
-        </div>
-         <audio controls>
+             <h5 style="color white">BIRTHDAY RADIO</h5>
+             <audio controls>
  
   <source src="music.mpeg" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
+        </div>
+        
         
 
         <!-- Javascript -->

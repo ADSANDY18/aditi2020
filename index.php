@@ -9,6 +9,12 @@
         <title>
             Aditi Bday
         </title><!-- Behavioral Meta Data -->
+        <!-- Chrome, Firefox OS and Opera -->
+<meta name="theme-color" content="#000000">
+<!-- Windows Phone -->
+<meta name="msapplication-navbutton-color" content="#000000">
+<!-- iOS Safari -->
+<meta name="apple-mobile-web-app-status-bar-style" content="#000000">
         <meta content="yes" name="apple-mobile-web-app-capable">
         <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport"><!-- Core Meta Data -->
         <meta content="ThemeWagon" name="author">

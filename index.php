@@ -70,7 +70,7 @@
                 <li class="layer" data-depth="0.20">
                     <div class="title">
                         <h2 style="color: white">
-                            19th Bday CountDown!
+                            You are excited?Hold tight!!
                         </h2>
                         <span class="line"></span>
                     </div>
@@ -162,7 +162,7 @@
                 <li class="layer" data-depth="0.20">
                     <div class="contact">
                          <h3 style="color white">BIRTHDAY RADIO</h3>
-                        <h5 style="color:white">Daily a song for you till 23rd April 2020</h5>
+                        
              <audio controls autoplay>
  
   <source src="music18.mpeg" type="audio/mpeg">

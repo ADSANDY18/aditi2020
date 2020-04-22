@@ -6,15 +6,14 @@
 
     <head>
         <meta charset="utf-8">
-        <title>
-            Aditi Bday
-        </title><!-- Behavioral Meta Data -->
-        <!-- Chrome, Firefox OS and Opera -->
-<meta name="theme-color" content="#000000">
+        <meta name="theme-color" content="#000000">
 <!-- Windows Phone -->
 <meta name="msapplication-navbutton-color" content="#000000">
 <!-- iOS Safari -->
 <meta name="apple-mobile-web-app-status-bar-style" content="#000000">
+        <title>
+            Aditi Bday
+        </title><!-- Behavioral Meta Data -->
         <meta content="yes" name="apple-mobile-web-app-capable">
         <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport"><!-- Core Meta Data -->
         <meta content="ThemeWagon" name="author">
@@ -76,7 +75,7 @@
                 <li class="layer" data-depth="0.20">
                     <div class="title">
                         <h2 style="color: white">
-                            You are excited?Hold tight!!
+                           It's 19th Bday Aditi!
                         </h2>
                         <span class="line"></span>
                     </div>
@@ -95,17 +94,12 @@
                         </h1>
 
                         <p class="sub-title" style="color: white">
-                           Wait till the Countdown Stops!!
-                           <br>
-                           <br>
-                           <button 
-                                   style="background-color: black;color: white; width: 170px;border-radius: 10px">
-                               <a href="http://aditibirthday.herokuapp.com/">WAIT FOR GIFT>></a></button>
+                           WHOOOOO!!Click down to get into the party!!
+                           
+                           
                         </p>
-                       
                     </div>
                 </li>
-                 
                 <!-- Flakes -->
 
                 <li class="layer" data-depth="0.40">
@@ -166,24 +160,32 @@
                     </div>
                 </li>
                 <!-- Contact -->
-
+    
                 <li class="layer" data-depth="0.20">
                     <div class="contact">
-                         <h3 style="color white">BIRTHDAY RADIO</h3>
-                        
-             <audio controls autoplay>
+                        <a href="https://bot7797.herokuapp.com/"><button style="background-color: black;color: white; width: 150px;border-radius: 10px">CLICK FOR GIFT</button></a>
+                         
+           
  
-  <source src="music18.mpeg" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
-                       
-                    Sandip
+  
+                        <ul class="icons">
+                            <li>
+                                <a class="behance" href="#"><i class="fa fa-facebook"></i></a>
+                            </li>
+
+                            <li>
+                                <a class="twitter" href="#"><i class="fa fa-instagram"></i></a>
+                            </li>
+
+                          
+                        </ul>
+                        Theme by Sandip
+
                     </div>
                 </li>
             </ul>
-           
+
         </div>
-        
         
 
         <!-- Javascript -->

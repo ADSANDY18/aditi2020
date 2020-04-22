@@ -98,7 +98,9 @@
                            Wait till the Countdown Stops!!
                            <br>
                            <br>
-                           <button style="background-color: black;color: white; width: 170px;border-radius: 10px">WAIT FOR GIFT>></button>
+                           <button 
+                                   style="background-color: black;color: white; width: 170px;border-radius: 10px">
+                               <a href="http://aditibirthday.herokuapp.com/">WAIT FOR GIFT>></a></button>
                         </p>
                        
                     </div>
